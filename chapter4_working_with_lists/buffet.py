@@ -7,4 +7,3 @@ for item in menu:
 menu = ("\nPizza", "Carbonara", "Burger", "Grilled cheese", "Nuggets")
 for item in menu:
     print(item)
-
