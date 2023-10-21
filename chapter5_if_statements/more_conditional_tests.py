@@ -94,6 +94,3 @@ print("item58" not in items_list)
 
 print("\nIs \"item2\" not in items_list? Prediction: False")
 print("item2" not in items_list)
-
-
-
