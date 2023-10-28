@@ -3,11 +3,9 @@ glossary = {
     'while': 'Creates a "while" loop (Unknown amount of iterations)',
     'print': 'Prints a statement or the value of a variable',
     'in': 'Used to loop through the elements of a list (To use with a "for" loop)',
-    'sort()': 'Sorts a list'
+    'sort()': 'Sorts a list',
+    'reverse()': 'Reverses the order of a list'
 }
 
-print('for : ' + glossary['for'])
-print('while : ' + glossary['while'])
-print('print : ' + glossary['print'])
-print('in : ' + glossary['in'])
-print('sort() : ' + glossary['sort()'])
+for term, meaning in glossary.items():
+    print(f"{term}: {meaning}")
