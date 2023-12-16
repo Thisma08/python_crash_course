@@ -1,0 +1,3 @@
+En Python, on peut faire des calculs
+En Python, on peut faire des jeux video
+En Python, on peut faire des statistiques
